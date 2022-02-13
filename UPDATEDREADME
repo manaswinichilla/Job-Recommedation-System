@@ -1,0 +1,24 @@
+Group 16
+Group members:
+Adithi Mysore Mohan
+Manaswini Chilla
+Nidadavolu sri satya sai pavan
+Dinuka De Selva
+
+Descrition of files:
+
+job recommendation system initial dataset.ipynb notebook:
+In this notebook, the data has been preprocessed and visualized, and then trained with several classfication algorithms and results have 
+been displayed. We have used SVM and random forest classifier to predict job roles on a set of resumes
+
+job recommendation system extended dataset.ipynb notebook: 
+this file's implementation is based on the notebook titled "job recommendation system initial dataset" on dataset that has been aumgmented with lot more records, with additional
+roles specific to IT industry.
+
+Resumes: folder with sample resumes used in the above two notebooks
+
+dataset-final.csv- 22765 records, 7 skills
+
+DatasetMoreRoles.csv - 42766 records, 32 skills
+
+How to run: please download all the above files in a single folder, and run the ipynb notebooks in jupyter notebook cell by cell.
